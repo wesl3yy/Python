@@ -1,0 +1,61 @@
+1662803265903	geckodriver	INFO	Listening on 127.0.0.1:54871
+1662803268974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofilelA0XmB"
+1662803269695	Marionette	INFO	Marionette enabled
+1662803269711	Marionette	INFO	Listening on port 54883
+WebDriver BiDi listening on ws://localhost:54872
+Read port: 54883
+1662803270016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofilelA0XmB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54872/devtools/browser/d0be312f-0e53-49cb-b670-ffeea63f75aa
+1662803446854	Marionette	INFO	Stopped listening on port 54883
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662803453441	geckodriver	INFO	Listening on 127.0.0.1:55075
+1662803456493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofileYur64Q"
+1662803457301	Marionette	INFO	Marionette enabled
+1662803457313	Marionette	INFO	Listening on port 55090
+WebDriver BiDi listening on ws://localhost:55076
+Read port: 55090
+1662803457612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofileYur64Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55076/devtools/browser/0389bb0f-3358-4bd4-917e-e1e293292d66
+1662803551516	Marionette	INFO	Stopped listening on port 55090
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662803586047	geckodriver	INFO	Listening on 127.0.0.1:58286
+1662803589310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofilei9NFJV"
+1662803590273	Marionette	INFO	Marionette enabled
+1662803590284	Marionette	INFO	Listening on port 58301
+WebDriver BiDi listening on ws://localhost:58287
+Read port: 58301
+1662803592464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofilei9NFJV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58287/devtools/browser/5314168f-db54-4b1a-a915-5960915f31cf
+1662803697989	Marionette	INFO	Stopped listening on port 58301662803700469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofileC84gnT"
+1662803701454	Marionette	INFO	Marionette enabled
+1662803701465	Marionette	INFO	Listening on port 58473
+WebDriver BiDi listening on ws://localhost:58461
+Read port: 58473
+1662803701712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NamBui\\AppData\\Local\\Temp\\rust_mozprofileC84gnT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58461/devtools/browser/c751c06e-a636-480b-9cfe-7f92789bde04
+1662803729045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662803733357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662803737123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662803740378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662803773072	Marionette	INFO	Stopped listening on port 58473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
