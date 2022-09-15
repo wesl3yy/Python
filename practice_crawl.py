@@ -51,6 +51,7 @@ def rakuten_crawl():
     except TimeoutException as e:
         print(e)
         driver.close()
+    return hotel
 
 
 def main():
